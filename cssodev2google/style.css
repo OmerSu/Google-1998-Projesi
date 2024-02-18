@@ -1,0 +1,54 @@
+.logo {
+width ;
+height: 113px;
+margin-top: -10px;
+margin-left: 36.5%;
+margin-bottom: 20px;
+margin-right: 43.5%; 
+background-color: antiquewhite;
+}
+
+.searchbar {
+
+    max-width: 80% ;
+    height: 120px;
+    margin-top: 20px;
+    margin-left: 10%;
+    margin-right: 10% ;
+    margin-bottom: 10px ;
+    background-color: #EEEEEE;
+}
+
+.linkbar {
+
+.blokone {
+
+width: 29%;
+height: 120px;
+margin-left: 10%;
+background-color: #7EE5DA ;
+}
+
+.bloktwo {
+    width: 19%;
+height: 120px;
+margin-left: 40%;
+margin-top: -120px;
+background-color: #7EE5DA;
+
+}
+
+.blokthree {
+
+    width: 28%;
+    height: 120px;
+    margin-right: 10%;
+    margin-left: 60%;
+    margin-top: -138px;
+    background-color: #7EE5DA;
+
+}
+
+}
+
+.footer {}
